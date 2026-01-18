@@ -1,8 +1,10 @@
-// const firstName = 'George'
-// firstName = 'Ivan'
-// console.log('Hello ', firstName)
-
-let firstName = 'George'
-firstName = 'Ivan'
-
-console.log('Hello', firstName)
+// Number
+// bigint
+// String
+// Boolean
+// Undefined
+// Null
+// Symbol
+// Object
+const age = 27; // Number
+console.log(typeof age);
